@@ -1,0 +1,34 @@
+[
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys",
+    "self": "https://apitest12345.atlassian.net/rest/api/3/project/10000",
+    "id": "10000",
+    "key": "AP",
+    "name": "scrum-project",
+    "avatarUrls": {
+      "48x48": "https://apitest12345.atlassian.net/secure/projectavatar?avatarId=10324",
+      "24x24": "https://apitest12345.atlassian.net/secure/projectavatar?size=small&avatarId=10324",
+      "16x16": "https://apitest12345.atlassian.net/secure/projectavatar?size=xsmall&avatarId=10324",
+      "32x32": "https://apitest12345.atlassian.net/secure/projectavatar?size=medium&avatarId=10324"
+    },
+    "projectTypeKey": "software",
+    "simplified": true,
+    "style": "next-gen"
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys",
+    "self": "https://apitest12345.atlassian.net/rest/api/3/project/10001",
+    "id": "10001",
+    "key": "KP",
+    "name": "kanban-project",
+    "avatarUrls": {
+      "48x48": "https://apitest12345.atlassian.net/secure/projectavatar?avatarId=10324",
+      "24x24": "https://apitest12345.atlassian.net/secure/projectavatar?size=small&avatarId=10324",
+      "16x16": "https://apitest12345.atlassian.net/secure/projectavatar?size=xsmall&avatarId=10324",
+      "32x32": "https://apitest12345.atlassian.net/secure/projectavatar?size=medium&avatarId=10324"
+    },
+    "projectTypeKey": "software",
+    "simplified": false,
+    "style": "classic"
+  }
+]
